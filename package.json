@@ -1,5 +1,5 @@
 {
-  "name": "@atomap/use-places-autocomplete",
+  "name": "@blueshoon/use-places-autocomplete",
   "version": "1.0.4",
   "description": "A react hook for getting predictions from the Google Places Autocomplete Service",
   "main": "dist/use-places-autocomplete.js",
@@ -38,10 +38,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WillMayger/use-places-autocomplete.git"
+    "url": "https://github.com/blueshoon/use-places-autocomplete.git"
   },
   "bugs": {
     "url": "https://github.com/WillMayger/use-places-autocomplete/issues"
   },
-  "homepage": "https://github.com/WillMayger/use-places-autocomplete#readme"
+  "homepage": "https://github.com/blueshoon/use-places-autocomplete#readme"
 }
